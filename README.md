@@ -20,6 +20,7 @@ You: search for python tutorials
 
 ## Project Structure
 
+```
 thought_action_system/
 ├── main.py          # Entry point
 ├── core/            # Interpreter and executor pipeline
@@ -27,6 +28,7 @@ thought_action_system/
 ├── actions/         # Browser, typing, system actions
 ├── utils/           # Config and logger (v1.1)
 └── tests/           # Test suite (v1.1)
+```
 
 ## Setup
 
