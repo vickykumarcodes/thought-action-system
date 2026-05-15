@@ -3,7 +3,7 @@
 A local AI-powered automation system that converts natural language commands into real computer actions — no cloud APIs, no API keys, runs entirely on your machine.
 
 ## Demo
-[Watch it in action →]([your-linkedin-post-url](https://www.linkedin.com/posts/vicky-kumar-502830384_python-ai-localai-ugcPost-7460340116276826112-nRC2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF7OldIBKon5Zko0qohus2T564336ay0mS8))
+[Watch it in action →](https://www.linkedin.com/posts/vicky-kumar-502830384_python-ai-localai-ugcPost-7460340116276826112-nRC2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF7OldIBKon5Zko0qohus2T564336ay0mS8)
 
 ## How it works
 
