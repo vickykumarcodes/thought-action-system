@@ -2,6 +2,9 @@
 
 A local AI-powered automation system that converts natural language commands into real computer actions — no cloud APIs, no API keys, runs entirely on your machine.
 
+## Demo
+[Watch it in action →]([your-linkedin-post-url](https://www.linkedin.com/feed/update/urn:li:activity:7460340321428717568/))
+
 ## How it works
 
 You type a command → a local LLM interprets it → actions execute on your PC
